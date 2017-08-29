@@ -1,0 +1,66 @@
+|  Time(Minutes)  |  Number of Dots  |  Difference  |
+|-----------------|------------------|--------------|
+|  0 Minutes	  |  3		     |-		    |
+|-----------------|------------------| 3	    |
+|  1 Minutes      |  6		     |-		    |
+|-----------------|------------------| 6	    |
+|  2 Minutes      |  12              |-             |
+|-----------------|------------------| 12           |
+|  3 Minutes      |  24              |-             |
+|-----------------|------------------| 24           |
+|  4 Minutes      |  48              |-             |
+|-----------------|------------------|--------------|
+
+Geometric Sequence: 
+-when you set it up as ratios and 
+ you devide them and get the same Difference
+
+Recirsive Equation
+Next/Current Figure = 2 + Previous Figure
+f(t)=2f(t-1), f(0)=3
+      | |
+      | Sequence Number
+      How many Minutes
+
+Explicit Equation
+f(t)=3*2^t
+         |       
+         Minutes 
+Examples
+f(n)=5(n-1)+3
+     |       |
+Difference first term
+Geometric is when your multiplying the constant
+
+Arithmatic is when your Adding the constant
+
+in f(x) or f(n) or f(t) there all the same
+the f(Sequence NUmber)
+
+Explicit Equations go Across "X to Y" 
+
+Arithmatic Equation Breakdown
+f(n)=  (n-1)  +5
+  |       |    |
+Defines    |    |
+Equation    |    |
+as a        |     |
+function    |      |
+            |       |
+      Asks And takes |
+      the Previous   |
+      N or Time      |
+		     |
+              The Constant Rate of change
+              This part Gives you the Answer
+
+       Day#
+        |
+f(n)=2(n-1)+3 ---
+     |		 |
+Rate of change	 |
+		 |
+	Where we started
+
+
+5(n-1)+3
