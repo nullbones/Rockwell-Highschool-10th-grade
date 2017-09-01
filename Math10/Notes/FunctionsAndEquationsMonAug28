@@ -30,9 +30,8 @@ Examples
 f(n)=5(n-1)+3
      |       |
 Difference first term
-Geometric is when your multiplying the constant
-
-Arithmatic is when your Adding the constant
+-Geometric is when your multiplying the constant
+-Arithmatic is when your Adding the constant
 
 in f(x) or f(n) or f(t) there all the same
 the f(Sequence NUmber)
@@ -64,3 +63,77 @@ Rate of change	 |
 
 
 5(n-1)+3
+
+
+
+Day1  Day2		 n  |   f(n)          |f(n)
+ 8  -> 10	       Days | #freinds	      |#freinds
+        |	      ------|-----------------|-------------------
+        v		1   |  	 8 --------*10|8		  |8(10^0)
+       80		2   |	 80--------*10|8*10		  |8(10^1)
+			3   |	 800-------*10|8*10*10		  |8(10^2)
+		  	4   |    8000------*10|8*10*10*10	  |8(10^3)
+			5   |    80,000----*10|8*10*10*10*10	  |8(10^4)
+			6   |    800,000---*10|8*10*10*10*10*10	  |8(10^5)
+			7   |    8,000,000-*10|8*10*10*10*10*10*10|8(10^6)
+Recursive: f(n)=10f(n-1) f(1)=8
+Explicit: f(n)=8*10^(n-1)
+
+Y=mx+b
+it can be fliped
+  -y=b+mx------
+ |   |         |
+f(n)=starting#+Rate of change(n)
+
+
+ ---------------------------------------
+|How to Identify An Arithmetic Sequence |
+ ---------------------------------------
+ Definition
+ -A sequence of numbers with a common
+  Differnce between consecutive terms.
+
+ In a table							
+ -The difference in the same between any
+  Two output values.
+
+ In a graph
+ -The Graph is a dotted line with ether a
+  Positive or negitive slope.
+							
+ In the Recursive Formula
+ -The next term is obtained by adding a
+  Constant value to the previous term.
+
+ In the Explicit Formula					
+ -The equation can be written in the form:
+  y=mx+b, with "m" equal to the constant
+  Difference between terms.
+
+ --------------------------------------
+| How to Identify a Geometric Sequence |
+ --------------------------------------
+Definition
+-A sequence of numbers with a common
+ Ratio between consecutive terms
+
+In a table
+-The ratio is the same between any two
+ output values. The the first difference also
+ has the same common ratio
+
+In a graph
+-The graph is a curve that starts out slow and
+ then shoots up or starts highm dropping
+ down quckly and tapering off.
+
+In a Recursinve Formula
+-The next term is obtained by multiplying
+ the previous term by a constant value
+
+In an Explicit Formula
+-The equation can be written in the form:
+ f(n)=a(b^n) or f(n)=a(b^n-1)
+
+
+
