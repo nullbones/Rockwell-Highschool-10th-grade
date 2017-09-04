@@ -1,0 +1,28 @@
+1: New patch released take away half from all Machines with values between 4 or 6pts
+2: New Exploit Developed you now have 5pts to disperse across your botnet!
+3: Some one clicks on your ad! roll twice
+4: Cought by the Feds :'( Take 4pts away from all your Machines
+5: Steal one card From anyone. This card can be used any time during the Game
+6: Special access! you can infect one machine anywhere on the board. Power points still apply
+7: you get to pull 4 cards from the deck
+8: Double your roll this card can be used at any time in the game BEFORE YOU ROLL
+
+
+Rules
+you can take away points from other machines and add them to your roll
+if a machines runs out of points it becomes a 1 and is no longer yours
+
+you CAN take over others botnets but you need to have enouph points to take over
+the space.
+
+also you can take a turn to re arange points agross your botnet
+
+if you steal a number and theres a row of the same number you can take all of them
+
+if you steal a space and there is the same space number in a line conected to it you can take the whole line
+in the direction your taking over
+
+you win by taking the oposing players corners
+
+
+you can only draw up to 6 points from your botnet per turn
