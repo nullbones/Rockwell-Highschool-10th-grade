@@ -6,11 +6,93 @@ Domain
 
 Discrete Function
 -A function where only a set of numbers can be listed such as a whole
- number or a set of intigers. Sequences are Discrete
+ number or a set of intigers. Sequences are Discretete
 
 Continuous Function
 -Every value of x is in the domain. We do not use terms like arithmetic or
  geometric for rates of change.
+
+Descrete Function
+-Descret function is not continueus
+ Example: Putting 3 pennies in a jar a day
+          your not constantly putting pennies
+          in your putting only a few
+          we would graph this in just dots
+          because its outputing in bursts
+          instead of in a constant flow.
+
+Continuous 
+-function Function is constant
+ Example: A house putting out water it is 
+          Constantly releasing water and never
+          stops when this is graphed we use
+          a line because it is constantly making water
+          instead of in bursts.
+
+Domain
+-The left side of your table or the "x"
+ this is called your Domain you use in your equation
+
+
+ ----------------------------------
+| Examples We do on the Whiteboard |
+ ----------------------------------
+Each boxes contains 8 books
+
+y=8x discrete
+
+Table
+      x   y
+     box|boo
+     ---|---
+      1 | 8
+      2 | 16
+      3	| 24
+      4	| 32
+
+Graph
+
+40       0
+34
+32     0
+28
+24   0
+20  
+16 0
+12
+ 8
+ 4
+ X-1-2-3-4-5-6
+
+
+Example 2:
+
+y=13x continuous
+
+Table
+
+  x     y
+Hours|ebooks
+-----|------
+   1 | 13
+   2 | 26
+   3 | 39
+   4 | 52
+   5 | 65
+
+Graph
+           /
+50        0
+45       /
+40       0
+35      /
+30      /
+25     0
+20    /
+15   /
+10   0
+ 5 0/ 
+ X-1-2-3-4-5
 
 
 
